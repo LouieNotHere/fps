@@ -1,0 +1,24 @@
+body {
+  background-color: #00003F;
+  font-family: "DM Sans";
+}
+#container {
+  font-size: 15pt;
+  background-color: #FFFFFF;
+  padding: 10px;
+  border-radius: 15px;
+  width: 320px;
+  margin: auto;
+}
+
+.justify {
+  text-align: justify;
+}
+.center {
+  text-align: center;
+}
+
+@font-face {
+  font-family: "DM Sans";
+  src: url(dmsans.ttf);
+}
